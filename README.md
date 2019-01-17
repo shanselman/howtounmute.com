@@ -39,11 +39,11 @@ Click the left one to unmute! Click the right one to turn on your cam! You can a
 
 The unmute button is at the top of the hangout.
 
-![image](images\hangouts.png "Google Hangouts")
+![image](images/hangouts.png "Google Hangouts")
 
 Click the little Settings Gear to select your microphone and speakers from within Google Hangouts.
 
-![image](images\hangoutssettings.png "Hangouts Settings")
+![image](images/hangoutssettings.png "Hangouts Settings")
 
 <a name="Flash"></a>
 
@@ -51,7 +51,7 @@ Click the little Settings Gear to select your microphone and speakers from withi
 
 Seriously, stop. What's wrong with you? Then, right click on the box where the app is running and click Settings...
 
-![image](images\flash.png "Flash")
+![image](images/flash.png "Flash")
 
 You can select your Microphone and see the bar move on the right, indicating it can hear you.
 
@@ -61,17 +61,17 @@ Most apps let you select microphones within the app. You can also set your prefe
 
 Which mic am I using? Right click on the little speaker near the clock and select "Recording Devices."
 
-![image](images\windows.png "windows")
+![image](images/windows.png "windows")
 
 Some machines have more than one microphone. Windows lets you set a "Default Communications Device" for calls like Skype, and this is different from the "Default Device" for regular audio apps like Audacity. Right click to set your default.
 
-![image](images\windowssoundpanel.png "Windows Sound Panel")
+![image](images/windowssoundpanel.png "Windows Sound Panel")
 
 > **PRO TIP:** Tap your microphone (or where you think it is) to confirm where you THINK it is. Watch the green bars move.
 
 Applications can also select their individual preferred microphone. Here's Tools | Options in Skype. See how I can select where I want my audio output to go? And where I want my input to come from?
 
-![image](images\skypeaudio.png "image")
+![image](images/skypeaudio.png "image")
 
 <a name="Mac"></a>
 
@@ -79,7 +79,7 @@ Applications can also select their individual preferred microphone. Here's Tools
 
 That's cool. Type "Sound" into Spotlight and open your settings. Note you can see your input volume, your preferred input devices and preferred output device.
 
-![image](images\macaudio.png "Mac")
+![image](images/macaudio.png "Mac")
 
 <a name="Phone"></a>
 
@@ -87,11 +87,11 @@ That's cool. Type "Sound" into Spotlight and open your settings. Note you can se
 
 There is VERY likely a microphone mute button on the phone. Familiarize yourself with the phone's buttons and try this one.
 
-![image](images\mutesymbol.png "Mute Symbol")
+![image](images/mutesymbol.png "Mute Symbol")
 
 Maybe you have a headset? Does it have a mute button? Maybe you bumped it.
 
-![image](images\usbbuttons.jpg "USB Buttons")
+![image](images/usbbuttons.jpg "USB Buttons")
 
 ## Call to AUDIBLE ACTION
 
