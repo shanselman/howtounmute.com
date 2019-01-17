@@ -53,9 +53,11 @@ When joining Webex, you will see options for your microphone and camera, or the 
 
 ![image](images/webexjoin.png "Webex Join Settings")
 
-In Webex, this means your microphone is turned off.
+In Webex, this means your microphone is turned off. Click to unmute.
 
 ![image](images/webexmuted.png "Webex")
+
+These option may look slightly different, including a button to toggle participants and chat, depending on if your cursor is near the bottom area of Webex window.
 
 <a name="Flash"></a>
 
