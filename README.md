@@ -96,7 +96,3 @@ Maybe you have a headset? Does it have a mute button? Maybe you bumped it.
 ## Call to AUDIBLE ACTION
 
 If you take 5 to 10 minutes NOW to make sure you know how to select your microphone and umute yourself, you will save remote workers everywhere 15 minutes for every 1 hour meeting.
-
-* * *
-
-**Sponsor:** Many thanks to Intersoft for sponsoring the feed this week! [Enterprise cross-platform native apps development](http://bit.ly/W3x8ZJ) made painless with [Intersoft Crosslight](http://bit.ly/W3x8ZJ). Sounds too good to be true? See it for yourself and get started today!
