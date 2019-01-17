@@ -27,7 +27,7 @@ See that circled icon? That's a muted microphone. Click to unmute.
 
 ### Using Lync?
 
-In Lync, this means your phone and mic are turned off.
+In Lync, this means your cam and mic are turned off.
 
 ![image](images/lync.png "Lync")
 
