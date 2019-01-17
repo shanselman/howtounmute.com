@@ -27,7 +27,7 @@ See that circled icon? That's a muted microphone. Click to unmute.
 
 ### Using Lync?
 
-In Lync, this means your cam and mic are turned off.
+In Lync, this means your phone and mic are turned off.
 
 ![image](images/lync.png "Lync")
 
@@ -44,6 +44,18 @@ The unmute button is at the top of the hangout.
 Click the little Settings Gear to select your microphone and speakers from within Google Hangouts.
 
 ![image](images/hangoutssettings.png "Hangouts Settings")
+
+<a name="Webex"></a>
+
+### Using Webex?
+
+When joining Webex, you will see options for your microphone and camera, or the option to get dial in information.
+
+![image](images/webexjoin.png "Webex Join Settings")
+
+In Webex, this means your microphone is turned off.
+
+![image](images/webexmuted.png "Webex")
 
 <a name="Flash"></a>
 
