@@ -45,6 +45,18 @@ Click the little Settings Gear to select your microphone and speakers from withi
 
 ![image](images/hangoutssettings.png "Hangouts Settings")
 
+<a name="Zoom"></a>
+
+### Using Zoom?
+
+The unmute button is in the bottm left corner of the Zoom window.
+
+![image](images/zoom.png "Zoom")
+
+Click the little chevron, near the microphone button in the bottom left corner, and select Audio Settings to configure your microphone and speakers from within Zoom.
+
+![image](images/zoomsettings.png "Zoom Settings")
+
 <a name="Flash"></a>
 
 ### Using Some Weird old Adobe Flash-based Web Conferencing Thing?
