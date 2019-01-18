@@ -59,6 +59,19 @@ In Webex, this means your microphone is turned off. Click to unmute.
 
 These option may look slightly different, including a button to toggle participants and chat, depending on if your cursor is near the bottom area of Webex window.
 
+<a name="Zoom"></a>
+
+### Using Zoom?
+
+The unmute button is in the bottm left corner of the Zoom window.
+
+![image](images/zoom.png "Zoom")
+
+Click the little chevron, near the microphone button in the bottom left corner, and select Audio Settings to configure your microphone and speakers from within Zoom.
+
+![image](images/zoomsettings.png "Zoom Settings")
+
+
 <a name="Flash"></a>
 
 ### Using Some Weird old Adobe Flash-based Web Conferencing Thing?
