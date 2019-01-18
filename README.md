@@ -45,6 +45,20 @@ Click the little Settings Gear to select your microphone and speakers from withi
 
 ![image](images/hangoutssettings.png "Hangouts Settings")
 
+<a name="Webex"></a>
+
+### Using Webex?
+
+When joining Webex, you will see options for your microphone and camera, or the option to get dial in information.
+
+![image](images/webexjoin.png "Webex Join Settings")
+
+In Webex, this means your microphone is turned off. Click to unmute.
+
+![image](images/webexmuted.png "Webex")
+
+These option may look slightly different, including a button to toggle participants and chat, depending on if your cursor is near the bottom area of Webex window.
+
 <a name="Zoom"></a>
 
 ### Using Zoom?
@@ -56,6 +70,7 @@ The unmute button is in the bottm left corner of the Zoom window.
 Click the little chevron, near the microphone button in the bottom left corner, and select Audio Settings to configure your microphone and speakers from within Zoom.
 
 ![image](images/zoomsettings.png "Zoom Settings")
+
 
 <a name="Flash"></a>
 
