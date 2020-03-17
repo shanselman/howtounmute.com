@@ -37,7 +37,7 @@ Click the left one to unmute! Click the right one to turn on your cam! You can a
 
 ### Using Google Hangouts?
 
-The unmute button is at the top of the hangout.
+The unmute button is at the bottom of the hangout.
 
 ![image](images/hangouts.png "Google Hangouts")
 
