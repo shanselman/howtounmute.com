@@ -47,7 +47,7 @@ For those multi-taskers amongst us, if you hop out of the main meeting view to g
 
 ![image](images/teams-preview-mini-viewer.jpg "Teams - Mini meeting viewer")
 
-You can also use the Ctrl + Shirt + M keyboard shortcut anywhere in Teams to toggle mute.
+You can also use the Ctrl + Shift + M keyboard shortcut anywhere in Teams to toggle mute.
 
 If you find other can't hear you even after unmuting, the first thing to check is that you have the right input device selected inside Teams. To access device settings, click on your display picture, and choose the Settings option. On the Devices tab, you can select the device currently being used as your microphone.
 
