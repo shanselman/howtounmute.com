@@ -33,6 +33,26 @@ In Lync, this means your cam and mic are turned off.
 
 Click the left one to unmute! Click the right one to turn on your cam! You can also use the "Win+F4" global hotkey to unmute Lync.
 
+<a name="Teams"></a>
+
+### Using Microsoft Teams?
+
+During a meeting, all meeting controls are located at the bottom of the screen. If you don't see them, move your mouse a little and they will appear. That second icon from the left controls your microphone.
+
+![image](images/teams-meeting-view.jpg "Teams - Meeting view")
+
+The team behind Teams also do a great little thing and show "Your microphone is muted" prominently if you start talking while on mute. No more chatting away for ages before you realise no one heard you.
+
+For those multi-taskers amongst us, if you hop out of the main meeting view to go and check on your chats or channels, you still get easy access to the meeting & audio controls in the small preview window that appears in the top left of the app.
+
+![image](images/teams-preview-mini-viewer.jpg "Teams - Mini meeting viewer")
+
+You can also use the Ctrl + Shift + M keyboard shortcut anywhere in Teams to toggle mute.
+
+If you find other can't hear you even after unmuting, the first thing to check is that you have the right input device selected inside Teams. To access device settings, click on your display picture, and choose the Settings option. On the Devices tab, you can select the device currently being used as your microphone.
+
+![image](images/teams-device-settings.jpg "Teams - Device settings")
+
 <a name="Hangouts"></a>
 
 ### Using Google Hangouts?
