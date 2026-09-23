@@ -57,7 +57,7 @@ If you find other can't hear you even after unmuting, the first thing to check i
 
 ### Using Google Hangouts?
 
-The unmute button is at the top of the hangout.
+The unmute button is at the bottom of the hangout.
 
 ![image](images/hangouts.png "Google Hangouts")
 
